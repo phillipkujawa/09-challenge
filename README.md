@@ -37,7 +37,7 @@
   N/A
   
   ## Questions
-  For more information, check out my GitHub profile: [@phillipkujawa](https://github.com/@phillipkujawa)
+  For more information, check out my GitHub profile: [@phillipkujawa](https://github.com/phillipkujawa)
   
   If you have any additional questions, please send an email to: phillip.kujawa@me.com
   
